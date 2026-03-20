@@ -2,7 +2,7 @@
 
 A [Claude Code](https://docs.anthropic.com/en/docs/claude-code) plugin that adds GeoAI-powered skills for geospatial data exploration, satellite imagery download, AI-based object detection, and session memory.
 
-Built on the [GeoAI](https://geoai.gishub.org) Python library.
+Built on the [GeoAI](https://opengeoai.org) Python library.
 
 ## Installation
 

@@ -7,7 +7,7 @@
     "url": "https://github.com/opengeos"
   },
   "repository": "https://github.com/opengeos/geoai-skills",
-  "homepage": "https://geoai.gishub.org",
+  "homepage": "https://opengeoai.org",
   "license": "MIT",
   "keywords": ["geoai", "geospatial", "remote-sensing", "satellite-imagery", "naip", "stac", "planetary-computer", "overture-maps", "object-detection", "building-footprints", "raster", "vector", "data-exploration", "session-logs"]
 }
