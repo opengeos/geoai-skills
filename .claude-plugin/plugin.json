@@ -1,0 +1,13 @@
+{
+  "name": "geoai-skills",
+  "description": "GeoAI-powered skills for Claude Code: inspect geospatial files, download satellite imagery, search STAC catalogs, fetch Overture Maps data, process rasters, run AI object detection, and search session logs.",
+  "version": "0.1.0",
+  "author": {
+    "name": "opengeos",
+    "url": "https://github.com/opengeos"
+  },
+  "repository": "https://github.com/opengeos/geoai-skills",
+  "homepage": "https://geoai.gishub.org",
+  "license": "MIT",
+  "keywords": ["geoai", "geospatial", "remote-sensing", "satellite-imagery", "naip", "stac", "planetary-computer", "overture-maps", "object-detection", "building-footprints", "raster", "vector", "data-exploration", "session-logs"]
+}
